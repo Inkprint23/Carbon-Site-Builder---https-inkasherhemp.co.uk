@@ -1,6 +1,4 @@
 
-## Ink Asher Hemp
-
 I am an artist, a facilitator, and an advocate 
 
 Focuing on care in our climate crisis informed by disability justice and queerness
