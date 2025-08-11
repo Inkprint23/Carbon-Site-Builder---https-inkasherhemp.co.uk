@@ -1,9 +1,10 @@
----
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
----
+
+## Ink Asher Hemp
+
+I am an artist, a facilitator, and an advocate 
+
+Focuing on care in our climate crisis informed by disability justice and queerness
+
+I'm in the process of building this website
+
+I hope you're doing enough okay
