@@ -1,4 +1,4 @@
-
+full_logo: true
 
 
 I am an artist, a facilitator, and an advocate 
